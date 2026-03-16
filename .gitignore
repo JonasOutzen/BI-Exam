@@ -8,5 +8,9 @@
 !data/
 !data/**
 
+# Allow assignment folder
+!assignment/
+!assignment/**
+
 # Allow gitignore itself
 !.gitignore
