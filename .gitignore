@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow notebook
+!exam_bi_machine_learning.ipynb
+
+# Allow data folder
+!data/
+!data/**
+
+# Allow gitignore itself
+!.gitignore
