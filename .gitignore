@@ -12,5 +12,8 @@
 !assignment/
 !assignment/**
 
+# Allow Read Me
+!README.md
+
 # Allow gitignore itself
 !.gitignore
