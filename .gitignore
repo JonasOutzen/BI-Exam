@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Allow notebook
+!exam_bi_machine_learning.ipynb
+
+# Allow data folder
+!data/
+!data/**
+
+# Allow assignment folder
+!assignment/
+!assignment/**
+
+# Allow Read Me
+!README.md
+
+# Allow gitignore itself
+!.gitignore
